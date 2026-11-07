@@ -82,7 +82,7 @@
 
 ## 🔗 Live Demo
 
-[ADA Landing — Visit Website](<(https://dosymuss.github.io/ada-landing/>)
+[ADA Landing — Visit Website](<https://dosymuss.github.io/ada-landing/>)
 
 ---
 
